@@ -3,7 +3,7 @@ source "cg_modelSlider.mel";
 
 
 # How to install
-Save the script in you "../maya/../scripts/" directory.
+Save the script in your "../maya/../scripts/" directory.
 
 # How to use
 1. In Maya, select a model you want to line up (select in the viewport, not the Outliner. The tool needs an active viewport.)
