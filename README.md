@@ -9,7 +9,7 @@ Save the script in you "../maya/../scripts/" directory.
 1. In Maya, select a model you want to line up (select in the viewport, not the Outliner. The tool needs an active viewport.)
 2. Make sure the camera has an imagePlane.
 3. To launch the tool, use the following command in a shelf button: source "cg_modelSlider.mel";
-4. Use Ctrl+MMB Drag over the "Depth" value to gradually reveal or hide the imagePlane. The "Sliding Precision" parameter will make the Ctrl+MM Drag more or less sensitive, which is helpful for lining up small details.
+4. Use Ctrl+MMB Drag over the "Depth" value to gradually reveal or hide the imagePlane. The "Sliding Precision" parameter will make the Ctrl+MMB Drag more or less sensitive, which is helpful for lining up small details.
 
 # Notes
 1. When adding a new camera to the tool, the user must select the model through another modelPanel (i.e. have an other active viewport).
